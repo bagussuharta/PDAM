@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331649370723",
+    "firebase_url": "https://pelaporan-pdam-giri-menang.firebaseio.com",
+    "project_id": "pelaporan-pdam-giri-menang",
+    "storage_bucket": "pelaporan-pdam-giri-menang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331649370723:android:84531026f3b3daad804656",
+        "android_client_info": {
+          "package_name": "com.example.coba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331649370723-dk8np7mp8p7lmqpuh99l9fkts5cpdir9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coba",
+            "certificate_hash": "e330e27726f8d3d469a5b255462dc3a9a1098d3f"
+          }
+        },
+        {
+          "client_id": "331649370723-11aikcgd14fa6lkl87ac49jbnja9ru2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaDXcd-tSxkdl9PIJshr8CrYuzZjR5mr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331649370723-11aikcgd14fa6lkl87ac49jbnja9ru2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
